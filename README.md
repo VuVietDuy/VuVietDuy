@@ -6,9 +6,9 @@
 
 <p align="center">
     <a href="https://github.com/VuVietDuy">
-        <img height="180em" src="https://streak-stats.demolab.com?user=VuVietDuy&theme=tokyonight&hide_border=true&border_radius="/>
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VuVietDuy&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VuVietDuy&hide_border=true&layout=compact&theme=tokyonight&hide=jupyter%20notebook"/>
+        <img height="180em" src="https://streak-stats.demolab.com?user=VuVietDuy&theme=tokyonight&hide_border=true&border_radius="/>
     </a>
 </p>
 
